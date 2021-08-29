@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - aerolite
+  - background
+  - enemy
+  - playerBullet
+  - enemyBullet
+  - enemy_1
+  - enemy_2
   layers:
   - Default
   - TransparentFX
